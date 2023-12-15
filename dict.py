@@ -2,7 +2,8 @@
 country_capitals = {
   "United States": "Washington D.C.", 
   "Italy": "Rome", 
-  "England": "London"
+  "England": "London",
+  "Germany": "Berlin"
 }
 
 # printing the dictionary
